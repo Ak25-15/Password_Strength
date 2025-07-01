@@ -31,8 +31,8 @@ The goal of this task is to understand how password complexity impacts security 
 - Password managers and multi-factor authentication greatly enhance security.
 
 ## Folder Structure
-├── Password_Strength_Report.docx
-├── README.md
+  - Password_Strength_Report.docx
+  - README.md
 
 
 ##  Conclusion
